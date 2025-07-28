@@ -1,15 +1,15 @@
 # 👋 Hi there, I'm Sarah Javaid!
 
-🎓 A CS student with a growing passion for **web development** — building full-stack apps and exploring the frontend world.
+🎓 A CS student passionate about web development — delving into frontend, while currently working hard to strengthen my backend skills and build full-stack projects.
 
 ---
 
 ## 💡 About Me
 
-- 🔤 I code with **HTML, CSS, JavaScript**
-- 🛠️ I build the backend using **Node.js**, **Express.js**, and **MongoDB**
-- 🧠 Currently diving into **frontend frameworks** like React.js
-- 🌱 Learning every day and leveling up my skills
+- 🔤 I work with **HTML, CSS, JavaScript** to create interactive user interfaces.
+- 🛠️ I build robust backend systems using **Node.js**, **Express.js**, and **MongoDB**.
+- 🌐 I can handle full-stack projects — from frontend to database.
+- 🌱 Currently sharpening my backend skills and exploring **React.js** for frontend development.
 
 ---
 
@@ -29,18 +29,19 @@
 
 ## 🧩 Projects I’ve Built
 
-| Project          | Description                           | Tech Stack                          |
-|------------------|---------------------------------------|-------------------------------------|
-| 🎬 Student Management App | Full-stack app for managing movies   | Node.js, Express, MongoDB, EJS      |
-| 🌐 Portfolio Site | Personal responsive website          | HTML, CSS, JavaScript               |
-| 🌤️ Weather App   | Real-time weather using APIs         | HTML, JavaScript, OpenWeather API   |
+| Project                | Description                           | Tech Stack                          |
+|------------------------|---------------------------------------|-------------------------------------|
+| 🎬 Student Management App | Full-stack app for managing student data | Node.js, Express, MongoDB, EJS      |
+| 🌐 Portfolio Website    | Personal responsive website          | HTML, CSS, JavaScript               |
+| 🌤️ Weather App         | Real-time weather using public API    | HTML, JavaScript, OpenWeather API   |
 
 ---
 
 ## 🛠️ Currently Learning
 
-- ⚛️ React.js fundamentals (hooks, routing, components)
-- UI/UX best practices and responsive design
+- ⚛️ React.js fundamentals (hooks, routing, state management)
+- 📐 UI/UX best practices & responsive design
+- 🌍 API development and deployment strategies
 
 ---
 
@@ -53,4 +54,3 @@
 
 > ✨ *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
 
-Thanks for visiting! Feel free to explore my projects 👇
