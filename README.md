@@ -31,7 +31,7 @@
 
 | Project          | Description                           | Tech Stack                          |
 |------------------|---------------------------------------|-------------------------------------|
-| 🎬 Movie CRUD App | Full-stack app for managing movies   | Node.js, Express, MongoDB, EJS      |
+| 🎬 Student Management App | Full-stack app for managing movies   | Node.js, Express, MongoDB, EJS      |
 | 🌐 Portfolio Site | Personal responsive website          | HTML, CSS, JavaScript               |
 | 🌤️ Weather App   | Real-time weather using APIs         | HTML, JavaScript, OpenWeather API   |
 
